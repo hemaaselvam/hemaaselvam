@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hemaaselvam
-- I am a frontend(Reactjs) developer
+- I am a Java+Reactjs developer
 - 👀 I’m interested in learning new technologies and framework
 - 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on reactjs
+- 💞️ I’m looking to collaborate on reactjs & Java
 - 📫 How to reach me @ hemapriyaselvasundaram@gmail.com
 
 <!---
